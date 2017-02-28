@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinFormsReverseBool.View.MainView"
+             xmlns:local="clr-namespace:XamarinFormsReverseBool.View.Common;assembly=XamarinFormsReverseBool">
+  <ContentView.Resources>
+    <ResourceDictionary>
+      <local:BooleanConverter x:Key="inverter"/>
+    </ResourceDictionary>
+  </ContentView.Resources>
+  <StackLayout>
+    <Label Text="BOOL = TRUE" IsVisible="{Binding VisibleText}"/>
+    <Label Text="BOOL = FALSE" IsVisible="{Binding VisibleText, Converter={StaticResource inverter}"/>
+    <Button Text="Change Bool" Clicked="OnButtonClicked"/>
+  </StackLayout>
+</ContentPage>

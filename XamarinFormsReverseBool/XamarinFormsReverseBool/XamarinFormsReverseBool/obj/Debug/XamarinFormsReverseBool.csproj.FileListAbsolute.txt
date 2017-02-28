@@ -1,0 +1,13 @@
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\bin\Debug\XamarinFormsReverseBool.dll
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\bin\Debug\XamarinFormsReverseBool.pdb
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\obj\Debug\XamarinFormsReverseBool.dll
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\obj\Debug\XamarinFormsReverseBool.pdb
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\obj\Debug\XamarinFormsReverseBool.csprojResolveAssemblyReference.cache
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\obj\Debug\XamarinFormsReverseBool.View.MainView.xaml.g.cs
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\obj\Debug\XamarinFormsReverseBool.dll.mdb
+c:\users\ryo\documents\visual studio 2015\Projects\XamarinFormsReverseBool\XamarinFormsReverseBool\XamarinFormsReverseBool\bin\Debug\XamarinFormsReverseBool.dll.mdb
